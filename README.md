@@ -97,4 +97,3 @@ The app will be available at `http://localhost:3000`.
 ## Conclusion
 
 This project is designed to help you understand **Redux Toolkit** and its integration with **React** for managing application state. It is a beginner-friendly project that gives you hands-on experience with modern state management techniques using Redux Toolkit.
-# todo-redux-toolkit
